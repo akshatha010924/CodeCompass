@@ -1,0 +1,13 @@
+node_modules/
+dist/
+__pycache__/
+.env
+backend/data/
+.pytest_cache/
+
+# ZIP archives
+*.zip
+
+# Python virtual environments
+.venv/
+venv/
